@@ -10,9 +10,9 @@ This application generates an employee role (Manager, Engineer, Intern), via com
 https://drive.google.com/file/d/1ICjRb_ihB7DsAqdusIGpyiFz54LpbOBj/view
 
 ## Homework Images
-![node](images\node.JPG)
-!![my team](images\myTeam.JPG)
-![test](images\teamTest.JPG)
+![node](images/node.JPG)
+!![my team](images/myTeam.JPG)
+![test](images/teamTest.JPG)
 
 
 
